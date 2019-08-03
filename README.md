@@ -1,5 +1,12 @@
-# todoapp
-How Snapshot method works behind the scenes because it runs code on the created hook but it deosnt  created the component again when a certain data changes
+# Dodatodos
+Dodatodos is a todo web application compatible with all browsers & devices built with the following technologies :
+
+    Vue JS (Javascript framework)
+    Google Firebase (Backend platform)
+    Sass (Css preprocessor)
+    and of course HTML 5 and CSS 3
+
+Dodatodos is using cloud firestore database for data managment
 ## Project setup
 ```
 npm install
