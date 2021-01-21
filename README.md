@@ -4,7 +4,6 @@ Dodatodos is a todo web application compatible with all browsers & devices built
     Vue JS (Javascript framework)
     Google Firebase (Backend platform)
     Sass (Css preprocessor)
-    and of course HTML 5 and CSS 3
 
 Dodatodos is using cloud firestore database for data managment
 ## Project setup
